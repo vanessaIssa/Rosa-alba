@@ -1,68 +1,91 @@
 {
   "vaultName": "荼蘼花",
-  "lastExport": 1733147132262,
+  "lastExport": 1733392852882,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "荼蘼花的笔记/建模技术/混元3d本地部署.md",
-    "荼蘼花的笔记/日记/收录/2024-11-19.md",
-    "荼蘼花的笔记/日记/收录/2024-11-21.md",
-    "荼蘼花的笔记/日记/收录/2024-11-22.md",
-    "荼蘼花的笔记/日记/收录/2024-11-23.md",
-    "荼蘼花的笔记/日记/收录/2024-11-24.md",
-    "荼蘼花的笔记/日记/收录/2024-12-02.md",
-    "荼蘼花的笔记/日记/日记--index.md",
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/框架.md",
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/美术参考.md",
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/蒙太奇测试.md",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/20241201-171223.mp4",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg",
-    "荼蘼花的笔记/Gbeat2024-12-2/gbeat总结.md",
-    "荼蘼花的笔记/obsidian/技术/-将Obisidian笔记发布为网站-.md",
-    "荼蘼花的笔记/obsidian/技术/Excalidraw.md",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png",
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png",
-    "荼蘼花原/收录/荼蘼花瓣/荼蘼花瓣.md",
-    "荼蘼花原/收录/荼蘼花瓣/Vanessa-Alba.md",
-    "荼蘼花原/收录/荼蘼花.md",
-    "荼蘼花原/收录/荼蘼花的土壤.md",
-    "荼蘼花原/收录/鸢尾花的遗书.md",
-    "荼蘼花原/致 来到荼蘼花原的旅者：.md",
-    "资源库/屏幕截图 2024-11-02 204553.png",
-    "资源库/屏幕截图 2024-11-11 175816.png",
-    "资源库/屏幕截图 2024-11-19 210457.png",
-    "资源库/屏幕截图 2024-12-02 172726.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/热爱的绑架.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/向大地奔去.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-19.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-21.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-22.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-23.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-24.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-02.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-03.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-04.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/日记--index.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/和小须鲸的合影.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小蛱蝶.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小须鲸.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/vanessa画像.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/模型收录.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/kleinCattt.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Minke小须鲸.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Vanessa.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender待办.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender学习.pdf",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/框架.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/美术参考.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/蒙太奇测试.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/20241201-171223.mp4",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/gbeat总结.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/-将Obisidian笔记发布为网站-.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/Excalidraw.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/根的设计.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论1.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论2.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/AI/art-tech/混元3d本地部署.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/神性/巫师守则.png",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/Vanessa目录.md",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣目录.md",
+    "荼蘼花原/荼蘼花/荼蘼花的土壤/荼蘼花的土壤.md",
+    "荼蘼花原/荼蘼花/荼蘼花的土壤/鸢尾花的遗书.md",
+    "荼蘼花原/荼蘼花/荼蘼花.md",
+    "荼蘼花原/荼蘼花园.canvas",
+    "2024-12-05.md",
+    "待办.md",
     "蒙太奇测试.docx",
-    "index.canvas",
+    "index.md",
+    "klein_Cattt.vrm",
+    "kleinCattt.vroid",
+    "Minke.vroid",
+    "Minke.vrm",
+    "opra2.docx",
+    "opra2 1.docx",
     "opra2 2.docx",
-    "Vanessa-Alba.md",
+    "vanessa.vroid",
+    "vanessa.vrm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -95,428 +118,566 @@
     "lib/media/874d8b8e340f75575caa.svg"
   ],
   "fileInfo": {
-    "荼蘼花的笔记/建模技术/混元3d本地部署.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 486,
-      "exportedPath": "荼蘼花的笔记/建模技术/混元3d本地部署.html",
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/热爱的绑架.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 178872,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/热爱的绑架.png",
       "dependencies": []
     },
-    "荼蘼花的笔记/日记/收录/2024-11-19.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 186,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-11-19.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/收录/2024-11-21.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 958,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-11-21.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/收录/2024-11-22.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 255,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-11-22.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/收录/2024-11-23.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 44,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-11-23.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/收录/2024-11-24.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 169,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-11-24.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/收录/2024-12-02.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 521,
-      "exportedPath": "荼蘼花的笔记/日记/收录/2024-12-02.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/日记/日记--index.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 76,
-      "exportedPath": "荼蘼花的笔记/日记/日记--index.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/框架.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 687,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/内容/框架.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/美术参考.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 677,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/内容/美术参考.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/内容/蒙太奇测试.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 2422,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/内容/蒙太奇测试.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 203355,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/20241201-171223.mp4": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 20978593,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/20241201-171223.mp4",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 42593,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 2171755,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 1858634,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 163804,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 12077,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 7773,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 6291,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 5319,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 7210,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 3296,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 4205,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 129026,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 138977,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 75811,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/Gbeat2024-12-2/gbeat总结.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 4558,
-      "exportedPath": "荼蘼花的笔记/Gbeat2024-12-2/gbeat总结.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/技术/-将Obisidian笔记发布为网站-.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 2003,
-      "exportedPath": "荼蘼花的笔记/obsidian/技术/-将Obisidian笔记发布为网站-.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/技术/Excalidraw.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 234,
-      "exportedPath": "荼蘼花的笔记/obsidian/技术/Excalidraw.html",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 51235,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 5433,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 6903,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 53198,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 15883,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 5068,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 39070,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 6345,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 2991,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 20044,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 28036,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 90175,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png",
-      "dependencies": []
-    },
-    "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 90175,
-      "exportedPath": "荼蘼花的笔记/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png",
-      "dependencies": []
-    },
-    "荼蘼花原/收录/荼蘼花瓣/荼蘼花瓣.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 197,
-      "exportedPath": "荼蘼花原/收录/荼蘼花瓣/荼蘼花瓣.html",
-      "dependencies": []
-    },
-    "荼蘼花原/收录/荼蘼花瓣/Vanessa-Alba.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 85,
-      "exportedPath": "荼蘼花原/收录/荼蘼花瓣/Vanessa-Alba.html",
-      "dependencies": []
-    },
-    "荼蘼花原/收录/荼蘼花.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 2538,
-      "exportedPath": "荼蘼花原/收录/荼蘼花.html",
-      "dependencies": []
-    },
-    "荼蘼花原/收录/荼蘼花的土壤.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 115,
-      "exportedPath": "荼蘼花原/收录/荼蘼花的土壤.html",
-      "dependencies": []
-    },
-    "荼蘼花原/收录/鸢尾花的遗书.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 7063,
-      "exportedPath": "荼蘼花原/收录/鸢尾花的遗书.html",
-      "dependencies": []
-    },
-    "荼蘼花原/致 来到荼蘼花原的旅者：.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 1083,
-      "exportedPath": "荼蘼花原/致 来到荼蘼花原的旅者：.html",
-      "dependencies": []
-    },
-    "资源库/屏幕截图 2024-11-02 204553.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 342167,
-      "exportedPath": "资源库/屏幕截图 2024-11-02 204553.png",
-      "dependencies": []
-    },
-    "资源库/屏幕截图 2024-11-11 175816.png": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 943921,
-      "exportedPath": "资源库/屏幕截图 2024-11-11 175816.png",
-      "dependencies": []
-    },
-    "资源库/屏幕截图 2024-11-19 210457.png": {
-      "modifiedTime": 1733147132262,
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/向大地奔去.png": {
+      "modifiedTime": 1733392852882,
       "sourceSize": 104877,
-      "exportedPath": "资源库/屏幕截图 2024-11-19 210457.png",
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/灵感/向大地奔去.png",
       "dependencies": []
     },
-    "资源库/屏幕截图 2024-12-02 172726.png": {
-      "modifiedTime": 1733147132262,
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-19.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 171,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-19.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-21.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 951,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-21.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-22.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 247,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-22.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-23.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 44,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-23.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-24.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 169,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-11-24.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-02.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 521,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-02.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-03.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 295,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-03.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-04.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 104,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/收录/2024-12-04.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/日记--index.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 121,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/智脑/日记/日记--index.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/和小须鲸的合影.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 3273572,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/和小须鲸的合影.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小蛱蝶.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 312967,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小蛱蝶.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小须鲸.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 627283,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/小须鲸.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/vanessa画像.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 943921,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/感性/AI/星野记录/vanessa画像.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/模型收录.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 56,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/模型收录.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/kleinCattt.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 43,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/kleinCattt.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Minke小须鲸.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 50,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Minke小须鲸.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Vanessa.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 55,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/模型收录/Vanessa.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender待办.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 367,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender待办.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender学习.pdf": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 815764,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/blender/blender学习.pdf",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/框架.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 687,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/框架.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/美术参考.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 677,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/美术参考.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/蒙太奇测试.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2422,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/内容/蒙太奇测试.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 203355,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/7048_148款野花野草www.huitugou.com (1).jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/20241201-171223.mp4": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 20978593,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/20241201-171223.mp4",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 42593,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-11-23 204257.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2171755,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153352.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 1858634,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/屏幕截图 2024-12-01 153417.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 163804,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124143808.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 12077,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144324.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 7773,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144429.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 6291,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144440.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 5319,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144504.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 7210,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144622.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 3296,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144800.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 4205,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124144901.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 129026,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171108.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 138977,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171130.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 75811,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/资源/Pasted image 20241124171209.jpg",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/gbeat总结.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 4612,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/3dART/Gbeat2024-12-2/gbeat总结.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/-将Obisidian笔记发布为网站-.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2994,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/-将Obisidian笔记发布为网站-.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/Excalidraw.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 334,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/技术/Excalidraw.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 51235,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-19 234235.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 5433,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 154802.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 6903,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 160718.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 53198,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 161503.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 15883,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 162812.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 5068,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163214.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 39070,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163324.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 6345,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 163417.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2991,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165547.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 20044,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165633.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 28036,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165740.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 90175,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 90175,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/art-tech/obsidian/引用的文件/屏幕截图 2024-11-22 165906 1.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/根的设计.png": {
+      "modifiedTime": 1733392852882,
       "sourceSize": 103510,
-      "exportedPath": "资源库/屏幕截图 2024-12-02 172726.png",
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/根的设计.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论1.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 4655109,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论1.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论2.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2365770,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/智脑/note/讨论2.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/AI/art-tech/混元3d本地部署.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 486,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/理性/AI/art-tech/混元3d本地部署.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/神性/巫师守则.png": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 342167,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/神性/巫师守则.png",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/Vanessa目录.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 27330,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣/Vanessa-Alba/Vanessa目录.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣目录.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 148,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花/荼蘼花瓣目录.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花的土壤/荼蘼花的土壤.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 97,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花的土壤/荼蘼花的土壤.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花的土壤/鸢尾花的遗书.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 7063,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花的土壤/鸢尾花的遗书.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花/荼蘼花.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 2545,
+      "exportedPath": "荼蘼花原/荼蘼花/荼蘼花.html",
+      "dependencies": []
+    },
+    "荼蘼花原/荼蘼花园.canvas": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 4367,
+      "exportedPath": "荼蘼花原/荼蘼花园.html",
+      "dependencies": []
+    },
+    "2024-12-05.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 359,
+      "exportedPath": "2024-12-05.html",
+      "dependencies": []
+    },
+    "待办.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 173,
+      "exportedPath": "待办.html",
       "dependencies": []
     },
     "蒙太奇测试.docx": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 15364,
       "exportedPath": "蒙太奇测试.docx",
       "dependencies": []
     },
-    "index.canvas": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 6007,
+    "index.md": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 1402,
       "exportedPath": "index.html",
       "dependencies": []
     },
+    "klein_Cattt.vrm": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 18324848,
+      "exportedPath": "klein_Cattt.vrm",
+      "dependencies": []
+    },
+    "kleinCattt.vroid": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 6762073,
+      "exportedPath": "kleinCattt.vroid",
+      "dependencies": []
+    },
+    "Minke.vroid": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 7458356,
+      "exportedPath": "Minke.vroid",
+      "dependencies": []
+    },
+    "Minke.vrm": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 18354300,
+      "exportedPath": "Minke.vrm",
+      "dependencies": []
+    },
+    "opra2.docx": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 22871,
+      "exportedPath": "opra2.docx",
+      "dependencies": []
+    },
+    "opra2 1.docx": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 22871,
+      "exportedPath": "opra2 1.docx",
+      "dependencies": []
+    },
     "opra2 2.docx": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 22871,
       "exportedPath": "opra2 2.docx",
       "dependencies": []
     },
-    "Vanessa-Alba.md": {
-      "modifiedTime": 1733147132262,
-      "sourceSize": 19460,
-      "exportedPath": "Vanessa-Alba.html",
+    "vanessa.vroid": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 11086909,
+      "exportedPath": "vanessa.vroid",
+      "dependencies": []
+    },
+    "vanessa.vrm": {
+      "modifiedTime": 1733392852882,
+      "sourceSize": 18206764,
+      "exportedPath": "vanessa.vrm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733147132262,
+      "modifiedTime": 1733392852882,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
